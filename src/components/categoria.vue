@@ -1,31 +1,19 @@
 <template>
-
-
-
   <div class="container-category">
 
-    <Tutorial name="math" />
+    <Tutorial name=" Parte 1" />
 
-    <Tutorial name="Literature" />
+    <Tutorial name=" Parte 2" />
 
-    <Tutorial name="Music" />
+    <Tutorial name=" Parte 3" />
+
 
   </div>
-
-
-
-
-
 </template>
-
-
 
 <script>
 
-import Tutorial from "@/components/tutorial.vue";
-
-
-
+import Tutorial from "@/components/Tutorial.vue";
 export default {
 
   name: "category",
@@ -33,10 +21,7 @@ export default {
   components: {Tutorial}
 
 }
-
 </script>
-
-
 
 <style scoped>
 
@@ -54,54 +39,6 @@ export default {
 
 }
 
-
-
 </style>
 
-Naldo Reupo-Musayon Gastulo
-01:53:18
-<template>
 
-  <div class="container">
-
-    Tutorial {{name}}
-
-  </div>
-
-
-
-</template>
-
-
-
-<script>
-
-export default {
-
-  props:['name'],
-
-  name: "tutorial"
-
-}
-
-</script>
-
-
-
-<style scoped>
-
-.container{
-
-  margin: 2px;
-
-  background-color: aquamarine;
-
-  padding: 6px;
-
-  font-size: xxx-large;
-
-}
-
-
-
-</style>

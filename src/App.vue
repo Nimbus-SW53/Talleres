@@ -1,9 +1,10 @@
 <script setup>
 import Tutorial from "@/components/Tutorial.vue";
+import Category from "@/components/categoria.vue";
 </script>
 
 <template>
-  <Tutorial />
+  <Category />
 </template>
 
 <style scoped>

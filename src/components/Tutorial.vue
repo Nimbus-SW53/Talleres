@@ -1,4 +1,7 @@
 <template>
+
+  <h1>Clase de Aplicaciones web </h1>
+
   <div class="container">
     Avance{{name}}
   </div>
@@ -33,6 +36,16 @@ export default
 
 
 <style scoped>
+
+h1
+{
+  color: #181818;
+  margin-top:auto ;
+  font-size: xx-large;
+  text-align: center;
+  justify-content: center;
+}
+
 .container {
   margin: 2px;
   background-color:olive;

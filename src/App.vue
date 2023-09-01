@@ -4,12 +4,15 @@ import Category from "@/components/categoria.vue";
 </script>
 
 <template>
+
   <category />
 
 
 </template>
 
 <style>
+
+
 
 body
 {

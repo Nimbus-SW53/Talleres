@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Nimbus-SW53
-=======
+
 # Nimbus-Front-end
->>>>>>> e11c6761879cd27392e0795dde0195342e660b5a
-=======
-# Nimbus-Front-end
->>>>>>> e11c6761879cd27392e0795dde0195342e660b5a
+
 
 This template should help get you started developing with Vue 3 in Vite.
 

@@ -18,3 +18,12 @@
     background-color: #dcdcdc;
   }
 </style>
+
+<style>
+
+  body
+  {
+    background-color: #e7e7e7;
+  }
+</style>
+
